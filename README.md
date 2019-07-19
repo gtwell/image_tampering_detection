@@ -1,8 +1,8 @@
-## image tampering detection papers
-### former approches
+## Image Tampering Detection papers
+### Former approches
 
 
 
-### deep learning methods
+### Deep learning methods
 
 
