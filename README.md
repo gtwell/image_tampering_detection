@@ -1,6 +1,6 @@
 ## Image Tampering Detection papers
 ### Former approches
-1. Using noise inconsistencies for blind image forensics. Babak Mahdian 2009 [[pdf][1]][[code][2]]
+1. Using noise inconsistencies for blind image forensics. Babak Mahdian 2009 [[PDF][1]][[code][2]]
 
 ### Deep learning methods
 
